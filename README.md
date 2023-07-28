@@ -1,3 +1,3 @@
-My first ever HTML project
-Website with recipes
-Basic HTML skills
+- My first ever HTML project
+- Website with recipes
+- Basic HTML skills
